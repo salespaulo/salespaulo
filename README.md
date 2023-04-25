@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <!--
-**salespaulo/salespaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**github/salespaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- Stole this idea from: https://github.com/BEPb/BEPb/blob/main/README.md -->
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![etnt's github stats](https://github-readme-stats.vercel.app/api?username=etnt&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=etnt&theme=radical&layout=compact) |
