@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
 | ![salespaulo's github stats](https://github-readme-stats.vercel.app/api?username=salespaulo&show_icons=true&theme=radical&include_all_commits=true) | ![lang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=salespaulo&theme=radical&layout=compact) |
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
