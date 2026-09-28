@@ -2,7 +2,7 @@
 
 Sou o desenvolvedor por trás do projeto [Gleam-BR](https://gleam.dev.br). **A comunidade brasileira do [Gleam-Lang](https://gleam.run/).**
 
-<img width="20" height="20" alt="lúcia" src="https://github.com/gleam-br/.github/blob/main/profile/lucy_emoji_transparent.png" /> Somos uma iniciativa dedicada à produção, curadoria e desenvolvimento de sistemas de missão crítica, focada na clareza da linguagem **Gleam** e na resiliência do ecossistema **BEAM (Erlang/OTP)**.
+Somos uma iniciativa dedicada à produção, curadoria e desenvolvimento de sistemas de missão crítica, focada na clareza da linguagem **Gleam** e na resiliência do ecossistema **BEAM (Erlang/OTP)**. <img width="20" height="20" alt="lúcia" src="https://github.com/gleam-br/.github/blob/main/profile/lucy_emoji_transparent.png" /> 
 
 Somos um espaço **laico, livre e colaborativo**, para saber mais [clique aqui](https://github.com/gleam-br).
 
