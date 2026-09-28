@@ -8,7 +8,7 @@ Sou o desenvolvedor por trás do projeto [Gleam-BR](https://gleam.dev.br).
 
 <img width="20" height="20" alt="lúcia" src="https://github.com/gleam-br/.github/blob/main/profile/lucy_emoji_transparent.png" /> Somos uma iniciativa dedicada à produção, curadoria e desenvolvimento de sistemas de missão crítica, focada na clareza da linguagem **Gleam** e na resiliência do ecossistema **BEAM (Erlang/OTP)**.
 
-Somos um espaço **laico, livre e colaborativo**, para saber mais [clique aqui](../MANIFESTO.md).
+Somos um espaço **laico, livre e colaborativo**, para saber mais [clique aqui](https://github.com/gleam-br/.github/blob/main/MANIFESTO.md).
 
 **Se você está aqui** para aprender Gleam, construir ferramentas incríveis ou apenas encontrar um ambiente seguro para tirar dúvidas sem medo de ser julgado, **você encontrou a sua casa.** 🏘️
 
@@ -30,15 +30,15 @@ Nós somos guiados por um documento muito especial que dita o tom de como intera
 2. **Zero Meritocracia Tóxica:** Ninguém aqui é melhor que ninguém. Dúvidas não geram "broncas", geram acolhimento. A sabedoria precede o algoritmo.
 3. **O Coração Alinhado à Razão:** Tudo o que fazemos visa o bem comum. Não gastamos energia em discussões vazias; gastamos energia criando.
 
-👉 **[Leitura obrigatória aqui](../MANIFESTO.md)**
+👉 **[Leitura obrigatória aqui](https://github.com/gleam-br/.github/blob/main/MANIFESTO.md)**
 
 ### 📖 Documentação
 
 Para entender a alma deste projeto e as regras de ouro da nossa engenharia, explore os documentos:
 
-1.  [**O Manifesto**](../MANIFESTO.md): O "Porquê" da nossa existência e nossos valores.
-2.  [**A Ética**](../ETICA.md): Nossas diretrizes de uso civil, construtivo e recíproco.
-2.  [**Os Valores**](../VALORES.md): Nossos valores e diretrizes.
+1.  [**O Manifesto**](https://github.com/gleam-br/.github/blob/main/MANIFESTO.md): O "Porquê" da nossa existência e nossos valores.
+2.  [**A Ética**](https://github.com/gleam-br/.github/blob/main/ETICA.md): Nossas diretrizes de uso civil, construtivo e recíproco.
+2.  [**Os Valores**](https://github.com/gleam-br/.github/blob/main/VALORES.md): Nossos valores e diretrizes.
 
 ## 🛠️ O Que Nós Construímos
 
