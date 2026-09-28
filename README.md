@@ -1,4 +1,6 @@
-# 🌟 Bem-vindo ao Gleam-BR
+# 🌟 Seja Bem-vindo 
+
+Sou o desenvolvedor por trás do projeto [Gleam-BR](https://gleam.dev.br).
 
 **A comunidade brasileira do [Gleam](https://gleam.run/).**
 
@@ -429,7 +431,7 @@ Ele conclui: “Adotar uma nova linguagem é sempre uma aposta, mas o Gleam vale
 
 ## 🌈 Mascote
 
-<img width="24" height="24" alt="lúcia" src="./lucy_emoji_transparent.png" /> "Lúcia"(pt_BR) -> <img width="24" height="24" alt="lucy" src="https://github.com/gleam-lang/gleam/blob/main/images/lucy.png" /> ["Lucy"(en_US)](https://github.com/gleam-lang/gleam/blob/main/images/lucy.png)
+<img width="24" height="24" alt="lúcia" src="https://github.com/gleam-br/.github/blob/main/profile/lucy_emoji_transparent.png" /> "Lúcia"(pt_BR) -> <img width="24" height="24" alt="lucy" src="https://github.com/gleam-lang/gleam/blob/main/images/lucy.png" /> ["Lucy"(en_US)](https://github.com/gleam-lang/gleam/blob/main/images/lucy.png)
 > Ambos os nomes têm a mesma origem latina, vindo de "Lux", que significa "luz"
 
 <details>
@@ -451,4 +453,4 @@ Ele conclui: “Adotar uma nova linguagem é sempre uma aposta, mas o Gleam vale
 
 *Mantido com ❤️ por **Freunde Von Ideen**.*
 
-<img width="20" height="20" alt="lúcia" src="./lucy_emoji_transparent.png" />
+<img width="20" height="20" alt="lúcia" src="https://github.com/gleam-br/.github/blob/main/profile/lucy_emoji_transparent.png" />
